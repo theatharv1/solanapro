@@ -1,6 +1,6 @@
 
 [package]
-name = "solana-bpf-IntellectualProperty"
+name = "solana-bpf-crowdsource"
 version = "0.0.1"
 description = "Example template program written in Rust"
 authors = ["Solana Maintainers <maintainers@solana.com>"]
@@ -22,5 +22,5 @@ solana-program-test = "=1.7.10"
 solana-sdk = "=1.7.10"
 
 [lib]
-name = "IntellectualPropertyMetadata"
+name = "crowdsource"
 crate-type = ["cdylib", "lib"]

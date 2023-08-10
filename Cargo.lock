@@ -2240,7 +2240,7 @@ dependencies = [
 ]
 
 [[package]]
-name = "solana-bpf-IntellectualProperty"
+name = "solana-bpf-crowdsource"
 version = "0.0.1"
 dependencies = [
  "borsh",
